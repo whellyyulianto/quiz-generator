@@ -13,4 +13,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 
 ## Open AI
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.insightpartners.com/wp-content/uploads/2025/11/OpenAI-Logo-2022.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://www.insightpartners.com/wp-content/uploads/2025/11/OpenAI-Logo-2022.png" width="400" alt="Laravel Logo"></p>
